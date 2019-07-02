@@ -73,3 +73,5 @@ function purchaseOrder(ID, amtNeeded){
 };
 
 displayProducts(); 
+
+// added json and modules
