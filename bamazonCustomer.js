@@ -74,4 +74,4 @@ function purchaseOrder(ID, amtNeeded){
 
 displayProducts(); 
 
-// added sql db
+// added js
